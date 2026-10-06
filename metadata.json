@@ -1,0 +1,6 @@
+{
+  "name": "DRIFT",
+  "description": "DRIFT — Streetwear. Redefined. Bold urban culture apparel, exclusive drops, and curated lookbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
